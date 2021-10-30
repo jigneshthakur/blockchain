@@ -54,7 +54,7 @@
                        
                         <!-- end:timeline -->
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
                         <!-- start:user info -->
                         <div class="panel panel-default">
                             <div class="panel-heading">
